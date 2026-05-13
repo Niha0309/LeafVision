@@ -59,4 +59,4 @@ unet_classification_final.keras
 
 ## Author
 
-Developed for thesis and research purposes in Deep Learning and Agricultural AI.
+Fahima Lokman Niha
